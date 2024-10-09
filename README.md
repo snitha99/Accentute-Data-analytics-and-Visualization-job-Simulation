@@ -1,8 +1,8 @@
-Overview
+Introduction:
 
  Accenture Data Analytics and Visualization Job Simulation involved working as a Data Analyst for a hypothetical social media client. I cleaned, modeled, and analyzed 7 datasets to uncover content trends, which helped inform strategic business decisions. My work included preparing a PowerPoint deck and a video presentation to communicate key insights to both the client and internal stakeholders.
 
- Participating in this job simulation gave me hands-on experience with data analytics and visualization in a realistic context. I enjoyed cleaning, modeling, and analyzing data, as well as presenting insights in a meaningful way. This experience made me even more excited to contribute to a dynamic team at Accenture, where I can apply these skills to real-world projects.These following tasks i complete in this project.
+ Task Overview:
 
  Task 1 This was an MCQ (Multiple Choice Question) task, and it was quite easy to solve.
 
@@ -27,9 +27,7 @@ Data Visualization: Created visuals to enhance understanding of insights.
 
 Presentations: Developed client-ready decks and video presentations.
 
-Project Planning: Managed workflow to meet deadlines.
 
-Public Speaking: Delivered findings professionally and clearly.
+Conclusion:
 
-Storytelling: Crafted a narrative to effectively communicate data insights.
-
+ Participating in this job simulation gave me hands-on experience with data analytics and visualization in a realistic context. I enjoyed cleaning, modeling, and analyzing data, as well as presenting insights in a meaningful way. This experience made me even more excited to contribute to a dynamic team at Accenture, where I can apply these skills to real-world projects.
